@@ -33,4 +33,4 @@ ________________________________________________________________________________
 ![Jun GitHub stats](https://github-readme-stats.vercel.app/api?username=khome7&show_icons=true&theme=white)   
 _____________________________________________________________________________________________________
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khome7&layout=Demo&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khome7&layout=compact)](https://github.com/khome7/github-readme-stats)
