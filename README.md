@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dkdlfhqht789)](https://solved.ac/dkdlfhqht789)
 
-![Jun GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=dark)   
+![Jun GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=white)   
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khome7&layout=Demo&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khome7&layout=Demo&theme=highcontrast)
