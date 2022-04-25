@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=hexcode(f8d200)&height=300&section=header&text=Jun&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=hexcode(#ffc500)&height=300&section=header&text=Jun&fontSize=90)
 
 <!--
 **khome7/khome7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
