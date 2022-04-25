@@ -1,4 +1,4 @@
-//![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jun&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jun&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome!&descAlignY=51&descAlign=62)
 
 
 <!--
@@ -15,17 +15,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+_____________________________________________________________________________________________________
 <div align="center">
  
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
   
   </div>
-  
+____________________________________________________________________________________________________
 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkdlfhqht789)](https://solved.ac/dkdlfhqht789)
+_____________________________________________________________________________________________________
 
 ![Jun GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=white)   
+_____________________________________________________________________________________________________
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khome7&layout=Demo&theme=highcontrast)
