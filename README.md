@@ -45,3 +45,4 @@ ________________________________________________________________________________
 ![Jun GitHub stats](https://github-readme-stats.vercel.app/api?username=khome7&show_icons=true&theme=white)   
 
 _____________________________________________________________________________________________________
+<a href="https://velog.io/@khome7" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
