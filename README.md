@@ -28,9 +28,9 @@ ________________________________________________________________________________
 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkdlfhqht789)](https://solved.ac/dkdlfhqht789)
+
 _____________________________________________________________________________________________________
 
 ![Jun GitHub stats](https://github-readme-stats.vercel.app/api?username=khome7&show_icons=true&theme=white)   
-_____________________________________________________________________________________________________
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khome7&layout=compact)](https://github.com/khome7/github-readme-stats)
+_____________________________________________________________________________________________________
