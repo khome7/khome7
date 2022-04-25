@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dkdlfhqht789)](https://solved.ac/dkdlfhqht789)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=khome7)](https://solved.ac/khome7)
 
 ![Jun GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=white)   
 
